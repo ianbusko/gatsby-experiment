@@ -9,4 +9,7 @@ export default () => <div style={{ color: `tomato` }}>
         <div>
             <Link to="/page-2/">Link</Link>
         </div>
+        <div>
+            <Link to="/counter/">Counter</Link>
+        </div>
     </div>
